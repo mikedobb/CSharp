@@ -1,0 +1,10 @@
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\bin\Debug\netcoreapp2.0\dicegame_UI.deps.json
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\bin\Debug\netcoreapp2.0\dicegame_UI.runtimeconfig.json
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\bin\Debug\netcoreapp2.0\dicegame_UI.runtimeconfig.dev.json
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\bin\Debug\netcoreapp2.0\dicegame_UI.dll
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\bin\Debug\netcoreapp2.0\dicegame_UI.pdb
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\obj\Debug\netcoreapp2.0\dicegame_UI.csproj.CoreCompileInputs.cache
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\obj\Debug\netcoreapp2.0\dicegame_UI.AssemblyInfoInputs.cache
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\obj\Debug\netcoreapp2.0\dicegame_UI.AssemblyInfo.cs
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\obj\Debug\netcoreapp2.0\dicegame_UI.dll
+D:\Users\mikedobb\source\repos\dicegame_UI\dicegame_UI\obj\Debug\netcoreapp2.0\dicegame_UI.pdb

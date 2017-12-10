@@ -1,0 +1,21 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About Dice Game";
+}
+
+<div class="row">
+    <div class="col-md-3"><img src="~/images/left-flourish.png" alt="Dice-1" height="95" width="285"></div>
+    <div class="col-md-1"></div>
+    <div class="col-md-5">   
+    <h1>@ViewData["Title"]</h1>
+    </div>
+    <div class="col-md-3"><img src="~/images/right-flourish.png" alt="Dice-1" height="95" width="285"></div>
+</div>
+<br>
+<br>
+<br>
+
+<h3>@Model.Message</h3>
+
+<p>Use this area to provide additional information.</p>
